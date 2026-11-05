@@ -1,0 +1,3 @@
+Cat dog cat. Bird dog cat!
+Linux is great. Linux is useful.
+Dog and cat are animals.
